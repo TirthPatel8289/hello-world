@@ -1,1 +1,1 @@
-# hello-world
+I want to learn how to develop websites that are responsive, aesthetically pleasing, and easy to use.  In order to create useful and accessible webpages that work well on various devices, I want to learn how to integrate design concepts with coding skills.  In the end, I would like to use these abilities to create websites that satisfy the demands of actual clients or projects while offering a satisfying user experience.
